@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="/styles/counter-style.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
+    <title>Mario's coins counter</title>
+  </head>
+  <body>
+    <div class="container">
+      <div>
+        <h1>Mario's coins counter</h1>
+      </div>
+      <div class="outcome-container">
+        <span id="valor">0</span>
+      </div>
+      <div class="buttons-container">
+        <button class="btn-decrease" id="decrease">-</button>
+        <audio id="soundSub" src="sounds/coin-.mp4"></audio>
+        <button class="btn-increase" id="increase">+</button>
+        <audio id="soundAdd" src="/sounds/coin+.mp4"></audio>
+      </div>
+
+      <div class="button-reset">
+        <button class="btn-reset" id="reset">RESET</button>
+        <audio id="soundReset" src="sounds/reset.mp4"></audio>
+        <audio id="soundReset0" src="/sounds/reset0.mp4"></audio>
+      </div>
+    </div>
+
+    <script src="/script/counter-script.js"></script>
+  </body>
+</html>

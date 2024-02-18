@@ -1,0 +1,79 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Press Start 2P", sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background-image: url(/images/background-counter-mario.jpg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+}
+
+h1 {
+  color: black;
+  font-size: 2rem;
+}
+
+.outcome-container {
+  color: rgb(218, 108, 45);
+  font-size: 6rem;
+  padding-top: 15rem;
+  padding-right: 30rem;
+  text-shadow: 10px 6px 0px rgba(0, 0, 0, 0.81);
+}
+
+.buttons-container {
+  padding-top: 2rem;
+  padding-right: 30rem;
+  width: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn-reset,
+.btn-increase,
+.btn-decrease {
+  background-color: black;
+  font-size: 30pt;
+  text-align: center;
+  display: inline-block;
+  margin: 5px;
+  font-weight: bold;
+  padding: 10px 0 10px 10px;
+  background-color: lightgray;
+  text-shadow: -1px -1px black, 1px 1px white;
+  color: gray;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -o-border-radius: 7px;
+  border-radius: 7px;
+  box-shadow: 0 0.2em gray;
+  cursor: pointer;
+  border-color: rgb(230, 175, 26);
+}
+
+.btn-reset:active,
+.btn-increase:active,
+.btn-decrease:active {
+  box-shadow: none;
+  position: relative;
+  top: 0.2em;
+}
+
+.button-reset {
+  padding-right: 30rem;
+}
