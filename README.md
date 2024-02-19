@@ -19,7 +19,7 @@ It can be incremented and decremented but never reduced below zero. The RESET bu
 * HTML
 * CSS
 
-### Author:
+### Author
 * Soledad Rodriguez Cid
 
 ### Contact
