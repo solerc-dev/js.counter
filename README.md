@@ -3,12 +3,12 @@
 
 ## About The Project
 
-The project is a simple counter coded with **_JavaScript, HTML and CSS._** 
-I decided to give it an aesthetic inspired by the Mario Bros video game, and its functionality is based on adding or subtracting coins.
+The project is a simple counter implemented with JavaScript, HTML, and CSS. 
 
-In each of the actions (increment, decrement, and reset), it emits a characteristic sound from the video game.
+I opted to give it an aesthetic inspired by the Mario Bros video game, and its functionality revolves around adding or subtracting coins.
 
-It can be incremented and decremented, but never reduced below zero, and with the RESET button, the counter is reset to zero again. 
+With each action (increment, decrement, and reset), it emits a characteristic sound from the video game.
+It can be incremented and decremented but never reduced below zero. The RESET button returns the counter to zero. 
 
 ## Let's try it! https://marioscoinscounter.netlify.app/
 
