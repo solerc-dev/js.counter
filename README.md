@@ -10,7 +10,7 @@ I opted to give it an aesthetic inspired by the Mario Bros video game, and its f
 With each action (increment, decrement, and reset), it emits a characteristic sound from the video game.
 It can be incremented and decremented but never reduced below zero. The RESET button returns the counter to zero. 
 
-## Let's try it! https://marioscoinscounter.netlify.app/
+## Let's try it! <a href="https://marioscoinscounter.netlify.app/" target="_blank">Mario's counter coins</a>
 
 ![image](https://github.com/solerc-dev/js.counter/assets/145294204/ffce8873-f006-4936-a4d5-6edbdd9ef83c)
 
@@ -23,8 +23,7 @@ It can be incremented and decremented but never reduced below zero. The RESET bu
 * Soledad Rodriguez Cid
 
 ### Contact
-
-https://goo.su/302vX0
+<a href="https://goo.su/302vX0" target="_blank">Say hello!</a>
 
 ### Project Link
 https://github.com/solerc-dev/s2i-myweb-project
