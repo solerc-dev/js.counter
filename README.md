@@ -12,7 +12,8 @@ It can be incremented and decremented but never reduced below zero. The RESET bu
 
 ## Let's try it! <a href="https://marioscoinscounter.netlify.app/" target="_blank">Mario's counter coins</a>
 
-![image](https://github.com/solerc-dev/js.counter/assets/145294204/ffce8873-f006-4936-a4d5-6edbdd9ef83c)
+![image](https://github.com/solerc-dev/js.counter/assets/145294204/e3835f4c-abd4-43bd-9b04-58b36759b377)
+
 
 ### Built With
 * JavaScript
